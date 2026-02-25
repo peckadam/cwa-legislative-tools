@@ -1,0 +1,338 @@
+legislator_id,office_type,label,address,phone,email,contact_form_url
+ASM_01,capitol,Sacramento,"1021 O Street, Suite 5710 Sacramento, CA 95814",(916) 319-2001,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD01&inframe=N
+ASM_01,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0001",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD01&inframe=N
+ASM_01,district,Jackson,"810 Court Street, Second Floor Jackson, CA 95642",(530) 265-0601,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD01&inframe=N
+ASM_01,district,Redding,"930 Executive, Way Suite 201 Redding, CA 96002",(530) 223-6300,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD01&inframe=N
+ASM_02,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0002",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD02&inframe=N
+ASM_02,capitol,Sacramento,"1021 O Street, Suite 5130 Sacramento, CA 95814",(916) 319-2002,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD02&inframe=N
+ASM_02,district,Santa Rosa,"50 D Street, Suite 450 Santa Rosa, CA 95404",(707) 576-2526,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD02&inframe=N
+ASM_02,district,Ukiah,"200 South School Street, Suite D Ukiah, CA 95482",(707) 463-5770,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD02&inframe=N
+ASM_02,district,Eureka,"1036 5th Street, Suite D Eureka, CA 95501",(707) 445-7014,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD02&inframe=N
+ASM_03,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0003",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD03&inframe=N
+ASM_03,capitol,Sacramento,"1021 O Street, Suite 4730 Sacramento, CA 95814",(916) 319-2003,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD03&inframe=N
+ASM_03,district,Chico,"2060 Talbert Drive, Suite 110 Chico, CA 95928",(530) 895-4217,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD03&inframe=N
+ASM_03,district,Yuba City,"1130 Civic Center Boulevard, 1st Floor Yuba City, CA 95993",(530) 671-0303,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD03&inframe=N
+ASM_04,capitol,Sacramento,"1021 O Street, Suite 8210 Sacramento, CA 95814",(916) 319-2004,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD04&inframe=N
+ASM_04,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0004",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD04&inframe=N
+ASM_04,district,Davis,"600 A Street, Suite D Davis, CA 95616",(530) 757-1034,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD04&inframe=N
+ASM_04,district,Napa,"2721 Napa Valley Corporate Drive Napa, CA 94558",(707) 224-0440,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD04&inframe=N
+ASM_05,capitol,Sacramento,"1021 O Street, Suite 4530 Sacramento, CA 95814",(916) 319-2005,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD05&inframe=N
+ASM_05,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0005",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD05&inframe=N
+ASM_05,district,Rocklin,"Rocklin Corporate Plaza, 6030 West Oaks Boulevard, Suite 145 Rocklin, CA 95765",(916) 435-0501,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD05&inframe=N
+ASM_06,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0006",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD06&inframe=N
+ASM_06,capitol,Sacramento,"1021 O Street, Suite 5230 Sacramento, CA 95814",(916) 319-2006,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD06&inframe=N
+ASM_06,district,Sacramento,"2715 K Street, Suite 100 Sacramento, CA 95816",(916) 324-4676,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD06&inframe=N
+ASM_07,capitol,Sacramento,"1021 O Street, Suite 4540 Sacramento, CA 95814",(916) 319-2007,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD07&inframe=N
+ASM_07,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0007",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD07&inframe=N
+ASM_07,district,Folsom,"13405 Folsom Boulevard, Building 700 Folsom, CA 95630",(916) 294-9774,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD07&inframe=N
+ASM_08,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0008",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD08&inframe=N
+ASM_08,capitol,Sacramento,"1021 O Street, Suite 4310 Sacramento, CA 95814",(916) 319-2008,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD08&inframe=N
+ASM_08,district,Fresno,"6245 North Fresno Street, Suite 106 Fresno, CA 93710",(559) 446-2029,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD08&inframe=N
+ASM_09,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0009",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD09&inframe=N
+ASM_09,capitol,Sacramento,"1021 O Street, Suite 4740 Sacramento, CA 95814",(916) 319-2009,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD09&inframe=N
+ASM_09,district,Ripon,"578 North Wilma Avenue, Suite B Ripon, CA 95366",(209) 599-2112,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD09&inframe=N
+ASM_10,capitol,Sacramento,"1021 O Street, Suite 5720 Sacramento, CA 95814",(916) 319-2010,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD10&inframe=N
+ASM_10,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0010",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD10&inframe=N
+ASM_10,district,Elk Grove,"9250 Laguna Springs Drive, Suite 220 Elk Grove, CA 95758",(916) 670-7888,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD10&inframe=N
+ASM_11,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0011",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD11&inframe=N
+ASM_11,capitol,Sacramento,"1021 O Street, Suite 8110 Sacramento, CA 95814",(916) 319-2011,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD11&inframe=N
+ASM_11,district,Suisun City,"One Harbor Center, Suite 270 Suisun City, CA 94585",(707) 438-7359,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD11&inframe=N
+ASM_12,capitol,Sacramento,"1021 O Street, Suite 5240 Sacramento, CA 95814",(916) 319-2012,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD12&inframe=N
+ASM_12,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0012",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD12&inframe=N
+ASM_12,district,San Rafael,"3501 Civic Center Drive, Room 412 San Rafael, CA 94903",(415) 479-4920,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD12&inframe=N
+ASM_12,district,Petaluma,"11 English Street Petaluma, CA 94952",(707) 576-2631,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD12&inframe=N
+ASM_12,district,Santa Rosa,"50 D Street, Suite 301 Santa Rosa, CA 95404",(707) 576-2631,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD12&inframe=N
+ASM_13,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0013",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD13&inframe=N
+ASM_13,capitol,Sacramento,"1021 O Street, Suite 6340 Sacramento, CA 95814",(916) 319-2013,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD13&inframe=N
+ASM_13,district,Stockton,"4643 Quail Lakes Drive, Suite 200 Stockton, CA 95207",(209) 948-7479,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD13&inframe=N
+ASM_14,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0014",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD14&inframe=N
+ASM_14,capitol,Sacramento,"1021 O Street, Suite 8140 Sacramento, CA 95814",(916) 319-2014,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD14&inframe=N
+ASM_14,district,Oakland,"1515 Clay Street, Suite 2201 Oakland, CA 94612",(510) 286-1400,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD14&inframe=N
+ASM_15,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0015",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD15&inframe=N
+ASM_15,capitol,Sacramento,"1021 O Street, Suite 6140 Sacramento, CA 95814",(916) 319-2015,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD15&inframe=N
+ASM_15,district,Concord,"2151 Salvio Street, Suite R Concord, CA 94520",(925) 521-1511,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD15&inframe=N
+ASM_16,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0016",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD16&inframe=N
+ASM_16,capitol,Sacramento,"1021 O Street, Suite 5210 Sacramento, CA 95814",(916) 319-2016,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD16&inframe=N
+ASM_16,district,San Ramon,"12677 Alcosta Boulevard, Suite 395 San Ramon, CA 94583",(925) 244-1600,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD16&inframe=N
+ASM_17,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0017",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD17&inframe=N
+ASM_17,capitol,Sacramento,"1021 O Street, Suite 5740 Sacramento, CA 95814",(916) 319-2017,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD17&inframe=N
+ASM_17,district,San Francisco,"455 Golden Gate Avenue, Suite 14300 San Francisco, CA 94102",(415) 557-3013,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD17&inframe=N
+ASM_18,capitol,Sacramento,"1020 N Street, Suite 390 Sacramento, CA 95814",(916) 319-2018,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD18&inframe=N
+ASM_18,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0018",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD18&inframe=N
+ASM_18,district,Oakland,"1515 Clay Street, Suite 2204 Oakland, CA 94612",(510) 286-1670,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD18&inframe=N
+ASM_19,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0019",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD19&inframe=N
+ASM_19,capitol,Sacramento,"1021 O Street, Suite 5220 Sacramento, CA 95814",(916) 319-2019,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD19&inframe=N
+ASM_19,district,San Francisco,"455 Golden Gate Avenue, Suite 14600 San Francisco, CA 94102",(415) 557-2312,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD19&inframe=N
+ASM_20,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0020",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD20&inframe=N
+ASM_20,capitol,Sacramento,"1021 O Street, Suite 5120 Sacramento, CA 95814",(916) 319-2020,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD20&inframe=N
+ASM_20,district,Hayward,"22320 Foothill Boulevard, Suite 540 Hayward, CA 94541",(510) 583-8818,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD20&inframe=N
+ASM_21,capitol,Sacramento,"1021 O Street, Suite 4220 Sacramento, CA 95814",(916) 319-2021,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD21&inframe=N
+ASM_21,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0021",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD21&inframe=N
+ASM_21,district,San Mateo,"1528 South El Camino Real, Suite 302 San Mateo, CA 94402",(650) 349-2200,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD21&inframe=N
+ASM_22,capitol,Sacramento,"1021 O Street, Suite 4640 Sacramento, CA 95814",(916) 319-2022,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD22&inframe=N
+ASM_22,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0022",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD22&inframe=N
+ASM_22,district,Modesto,"1010 Tenth Street, Suite 5800 Modesto, CA 95354",(209) 521-2201,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD22&inframe=N
+ASM_23,capitol,Sacramento,"1021 O Street, Suite 8130 Sacramento, CA 95814",(916) 319-2023,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD23&inframe=N
+ASM_23,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0023",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD23&inframe=N
+ASM_23,district,Palo Alto,"721 Colorado Avenue, Suite 101 Palo Alto, CA 94303",(650) 324-0224,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD23&inframe=N
+ASM_24,capitol,Sacramento,"1021 O Street, Suite 6330 Sacramento, CA 95814",(916) 319-2024,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD24&inframe=N
+ASM_24,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0024",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD24&inframe=N
+ASM_24,district,Milpitas,"1313 North Milpitas Boulevard, Suite 255 Milpitas, CA 95035",(408) 262-2501,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD24&inframe=N
+ASM_25,capitol,Sacramento,"1021 O Street, Suite 4610 Sacramento, CA 95814",(916) 319-2025,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD25&inframe=N
+ASM_25,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0025",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD25&inframe=N
+ASM_25,district,San Jose,"111 W. Saint John Street, Suite 1150 San Jose, CA 95113",(408) 286-2535,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD25&inframe=N
+ASM_26,capitol,Sacramento,"1021 O Street, Suite 6110 Sacramento, CA 95814",(916) 319-2026,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD26&inframe=N
+ASM_26,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0026",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD26&inframe=N
+ASM_26,district,Cupertino,"20111 Stevens Creek Boulevard, Suite 220 Cupertino, CA 95014",(408) 446-2810,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD26&inframe=N
+ASM_27,capitol,Sacramento,"1021 O Street, Suite 4110 Sacramento, CA 95814",(916) 319-2027,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD27&inframe=N
+ASM_27,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0027",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD27&inframe=N
+ASM_27,district,Merced,"512 West 18th Street Merced, CA 95340",(209) 726-5465,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD27&inframe=N
+ASM_27,district,Fresno,"2550 Mariposa Mall, Suite 3088 Fresno, CA 93721",(559) 890-2705,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD27&inframe=N
+ASM_28,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0028",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD28&inframe=N
+ASM_28,capitol,Sacramento,"1021 O Street, Suite 6310 Sacramento, CA 95814",(916) 319-2028,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD28&inframe=N
+ASM_28,district,San Jose,"3150 Almaden Expressway, Suite 252 San Jose, CA 95118",(408) 264-2848,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD28&inframe=N
+ASM_28,district,Santa Cruz,"701 Ocean Street, Room 318B Santa Cruz, CA 95060",(831) 425-1503,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD28&inframe=N
+ASM_28,district,Morgan Hill,"17555 Peak Avenue, Suite 100 Morgan Hill, CA 95037",(408) 659-3127,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD28&inframe=N
+ASM_29,capitol,Sacramento,"1021 O Street, Suite 8330 Sacramento, CA 95814",(916) 319-2029,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD29&inframe=N
+ASM_29,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0029",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD29&inframe=N
+ASM_29,district,Salinas,"60 West Market Street, Suite 110 Salinas, CA 93901",(831) 759-8676,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD29&inframe=N
+ASM_30,capitol,Sacramento,"1021 O Street, Suite 4120 Sacramento, CA 95814",(916) 319-2030,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD30&inframe=N
+ASM_30,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0030",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD30&inframe=N
+ASM_30,district,San Luis Obispo,"857 Santa Rosa Street San Luis Obispo, CA 93401",(805) 549-3001,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD30&inframe=N
+ASM_30,district,Monterey,"99 Pacific Street, Suite 575G Monterey, CA 93940",(831) 649-2832,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD30&inframe=N
+ASM_31,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0031",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD31&inframe=N
+ASM_31,capitol,Sacramento,"1021 O Street, Suite 6130 Sacramento, CA 95814",(916) 319-2031,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD31&inframe=N
+ASM_31,district,Fresno,"2550 Mariposa Mall, Room 5031 Fresno, CA 93721",(559) 445-5532,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD31&inframe=N
+ASM_32,capitol,Sacramento,"1021 O Street, Suite 5350 Sacramento, CA 95814",(916) 319-2032,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD32&inframe=N
+ASM_32,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0032",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD32&inframe=N
+ASM_32,district,Bakersfield,"4550 California Avenue, Suite 740 Bakersfield, CA 93309",(661) 395-2995,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD32&inframe=N
+ASM_33,capitol,Sacramento,"1021 O Street, Suite 5530 Sacramento, CA 95814",(916) 319-2033,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD33&inframe=N
+ASM_33,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0033",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD33&inframe=N
+ASM_33,district,Tulare,"4500 South Laspina Street Tulare, CA 93274",(559) 636-3440,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD33&inframe=N
+ASM_34,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0034",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD34&inframe=N
+ASM_34,capitol,Sacramento,"1021 O Street, Suite 5340 Sacramento, CA 95814",(916) 319-2034,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD34&inframe=N
+ASM_34,district,Palmdale,"41301 12th Street West, Suite F Palmdale, CA 93551",(661) 267-7636,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD34&inframe=N
+ASM_34,district,Apple Valley,"14955 Dale Evans Parkway Apple Valley, CA 92307",(760) 539-1341,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD34&inframe=N
+ASM_35,capitol,Sacramento,"1021 O Street, Suite 5730 Sacramento, CA 95814",(916) 319-2035,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD35&inframe=N
+ASM_35,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0035",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD35&inframe=N
+ASM_35,district,Bakersfield,"1430 Truxtun Avenue, Suite 803 Bakersfield, CA 93301",(661) 335-0302,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD35&inframe=N
+ASM_36,capitol,Sacramento,"1021 O Street, Suite 4230 Sacramento, CA 95814",(916) 319-2036,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD36&inframe=N
+ASM_36,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0036",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD36&inframe=N
+ASM_36,district,Indio,"81893 Dr. Carreon Boulevard, Suite 5 Indio, CA 92201",(760) 347-2360,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD36&inframe=N
+ASM_36,district,Imperial,"1101 Airport Road, Suite D Imperial, CA 92251",(760) 355-8656,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD36&inframe=N
+ASM_37,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0037",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD37&inframe=N
+ASM_37,capitol,Sacramento,"1021 O Street, Suite 6230 Sacramento, CA 95814",(916) 319-2037,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD37&inframe=N
+ASM_37,district,Santa Barbara,"101 West Anapamu Street, Suite A Santa Barbara, CA 93101",(805) 564-1649,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD37&inframe=N
+ASM_37,district,Santa Maria,"1111 South Broadway, Suite 101 Santa Maria, CA 93454",(805) 346-1237,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD37&inframe=N
+ASM_38,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0038",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD38&inframe=N
+ASM_38,capitol,Sacramento,"1021 O Street, Suite 4710 Sacramento, CA 95814",(916) 319-2038,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD38&inframe=N
+ASM_38,district,Oxnard,"300 E. Esplanade Drive, Suite 1790 Oxnard, CA 93036",(805) 485-4745,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD38&inframe=N
+ASM_39,capitol,Sacramento,"1021 O Street, Suite 5610 Sacramento, CA 95814",(916) 319-2039,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD39&inframe=N
+ASM_39,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0039",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD39&inframe=N
+ASM_39,district,Palmdale,"823 East Avenue Q-9, Suite B Palmdale, CA 93550-0039",(661) 266-3908,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD39&inframe=N
+ASM_39,district,Victorville,"16519 Victor Street, Suite 301 Victorville, CA 92395",(760) 530-0139,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD39&inframe=N
+ASM_40,capitol,Sacramento,"1021 O Street, Suite 4140 Sacramento, CA 95814",(916) 319-2040,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD40&inframe=N
+ASM_40,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0040",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD40&inframe=N
+ASM_40,district,Santa Clarita,"27441 Tourney Road, Suite 240 Santa Clarita, CA 91355",(661) 286-1565,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD40&inframe=N
+ASM_41,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0041",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD41&inframe=N
+ASM_41,capitol,Sacramento,"1021 O Street, Suite 4350 Sacramento, CA 95814",(916) 319-2041,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD41&inframe=N
+ASM_41,district,Pasadena,"257 S Fair Oaks Ave, Suite 210 Pasadena, CA 91105",(626) 351-1917,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD41&inframe=N
+ASM_42,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0042",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD42&inframe=N
+ASM_42,capitol,Sacramento,"1021 O Street, Suite 6220 Sacramento, CA 95814",(916) 319-2042,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD42&inframe=N
+ASM_42,district,Thousand Oaks,"223 E. Thousand Oaks Boulevard, Suite 412 Thousand Oaks, CA 91360",(805) 370-0542,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD42&inframe=N
+ASM_43,capitol,Sacramento,"1021 O Street, Suite 4320 Sacramento, CA 95814",(916) 319-2043,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD43&inframe=N
+ASM_43,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0043",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD43&inframe=N
+ASM_43,district,San Fernando,"501 South Brand Boulevard, Unit 2 San Fernando, CA 91340",(818) 504-3911,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD43&inframe=N
+ASM_44,capitol,Sacramento,"1021 O Street, Suite 5150 Sacramento, CA 95814",(916) 319-2044,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD44&inframe=N
+ASM_44,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0044",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD44&inframe=N
+ASM_44,district,Burbank,"300 East Magnolia Boulevard, Suite 504 Burbank, CA 91502",(818) 558-3043,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD44&inframe=N
+ASM_45,capitol,Sacramento,"1021 O Street, Suite 8310 Sacramento, CA 95814",(916) 319-2045,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD45&inframe=N
+ASM_45,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0045",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD45&inframe=N
+ASM_45,district,San Bernardino,"290 North D Street, Suite 805 San Bernardino, CA 92401",(909) 889-7145,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD45&inframe=N
+ASM_46,capitol,Sacramento,"1021 O Street, Suite 8230 Sacramento, CA 95814",(916) 319-2046,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD46&inframe=N
+ASM_46,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0046",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD46&inframe=N
+ASM_46,district,Encino,"16501 Ventura Boulevard, Suite 620 Encino, CA 91436",(818) 380-2460,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD46&inframe=N
+ASM_47,capitol,Sacramento,"1021 O Street, Suite 4330 Sacramento, CA 95814",(916) 319-2047,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD47&inframe=N
+ASM_47,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0047",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD47&inframe=N
+ASM_47,district,Rancho Mirage,"41-608 Indian Trail Road, Suite D-1 Rancho Mirage, CA 92270",(760) 346-6342,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD47&inframe=N
+ASM_48,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0048",(916) 319-2048,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD48&inframe=N
+ASM_48,capitol,Sacramento,"1021 O Street, Suite 5250 Sacramento, CA 95814",(916) 319-2048,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD48&inframe=N
+ASM_48,district,West Covina,"100 North Barranca Street, Suite 895 West Covina, CA 91791",(626) 960-4457,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD48&inframe=N
+ASM_49,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0049",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD49&inframe=N
+ASM_49,capitol,Sacramento,"1021 O Street, Suite 5650 Sacramento, CA 95814",(916) 319-2049,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD49&inframe=N
+ASM_49,district,Alhambra,"1411 South Garfield Avenue, Suite 307 Alhambra, CA 91801",(626) 457-4918,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD49&inframe=N
+ASM_50,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0050",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD50&inframe=N
+ASM_50,capitol,Sacramento,"1021 O Street, Suite 6240 Sacramento, CA 95814",(916) 319-2050,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD50&inframe=N
+ASM_50,district,Rancho Cucamonga,"10390 Commerce Center Drive, Suite C-280 Rancho Cucamonga, CA 91730",(909) 966-5090,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD50&inframe=N
+ASM_51,capitol,Sacramento,"1021 O Street, Suite 4250 Sacramento, CA 95814",(916) 319-2051,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD51&inframe=N
+ASM_51,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0051",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD51&inframe=N
+ASM_51,district,Los Angeles,"1445 North Stanley Avenue, 3rd Floor Los Angeles, CA 90046",(323) 436-5184,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD51&inframe=N
+ASM_52,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0052",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD52&inframe=N
+ASM_52,capitol,Sacramento,"1021 O Street, Suite 5620 Sacramento, CA 95814",(916) 319-2052,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD52&inframe=N
+ASM_52,district,Los Angeles,"1910 West Sunset Boulevard, Suite 810 Los Angeles, CA 90026",(213) 483-5252,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD52&inframe=N
+ASM_53,capitol,Sacramento,"1021 O Street, Suite 5640 Sacramento, CA 95814",(916) 319-2053,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD53&inframe=N
+ASM_53,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0053",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD53&inframe=N
+ASM_53,district,Chino,"13160 7th Street Chino, CA 91710",(909) 902-9606,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD53&inframe=N
+ASM_54,capitol,Sacramento,"1021 O Street, Suite 6150 Sacramento, CA 95814",(916) 319-2054,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD54&inframe=N
+ASM_54,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0054",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD54&inframe=N
+ASM_54,district,Los Angeles,"320 West Fourth Street, Room 1050 Los Angeles, CA 90013",(213) 620-4646,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD54&inframe=N
+ASM_55,capitol,Sacramento,"1021 O Street, Suite 5630 Sacramento, CA 95814",(916) 319-2055,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD55&inframe=N
+ASM_55,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0055",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD55&inframe=N
+ASM_55,district,Los Angeles,"5757 Wilshire Boulevard, Suite 345 Los Angeles, CA 90036",(310) 641-5410,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD55&inframe=N
+ASM_56,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0056",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD56&inframe=N
+ASM_56,capitol,Sacramento,"1021 O Street, Suite 4650 Sacramento, CA 95814",(916) 319-2056,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD56&inframe=N
+ASM_56,district,City Of Industry,"13181 Crossroads Parkway North, Suite 160 City Of Industry, CA 91746",(562) 692-5858,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD56&inframe=N
+ASM_57,capitol,Sacramento,"1021 O Street, Suite 6320 Sacramento, CA 95814",(916) 319-2057,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD57&inframe=N
+ASM_57,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0057",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD57&inframe=N
+ASM_57,district,Los Angeles,"700 Exposition Park Drive Los Angeles, CA 90037",(213) 744-2111,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD57&inframe=N
+ASM_58,capitol,Sacramento,"1021 O Street, Suite 4240 Sacramento, CA 95814",(916) 319-2058,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD58&inframe=N
+ASM_58,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0058",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD58&inframe=N
+ASM_58,district,Corona,"391 North Main Street, Suite 210 Corona, CA 92878",(951) 371-6860,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD58&inframe=N
+ASM_59,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0059",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD59&inframe=N
+ASM_59,capitol,Sacramento,"1021 O Street, Suite 4620 Sacramento, CA 95814",(916) 319-2059,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD59&inframe=N
+ASM_59,district,Brea,"3 Pointe Drive, Suite 313 Brea, CA 92821",(714) 529-5502,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD59&inframe=N
+ASM_60,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0060",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD60&inframe=N
+ASM_60,capitol,Sacramento,"1021 O Street, Suite 6120 Sacramento, CA 95814",(916) 319-2060,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD60&inframe=N
+ASM_60,district,Moreno Valley,"22690 Cactus Avenue, Suite 280 Moreno Valley, CA 92553",(951) 653-0960,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD60&inframe=N
+ASM_61,capitol,Sacramento,"1021 O Street, Suite 5520 Sacramento, CA 95814",(916) 319-2061,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD61&inframe=N
+ASM_61,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0061",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD61&inframe=N
+ASM_61,district,Inglewood,"One Manchester Boulevard, Suite 601 Inglewood, CA 90301",(310) 412-6400,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD61&inframe=N
+ASM_62,capitol,Sacramento,"1021 O Street, Suite 5110 Sacramento, CA 95814",(916) 319-2062,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD62&inframe=N
+ASM_62,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0062",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD62&inframe=N
+ASM_62,district,Paramount,"7300 Alondra Boulevard, Suite 101 Paramount, CA 90723",(562) 529-3250,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD62&inframe=N
+ASM_63,capitol,Sacramento,"1021 O Street, Suite 4520 Sacramento, CA 95814",(916) 319-2063,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD63&inframe=N
+ASM_63,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0063",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD63&inframe=N
+ASM_63,district,Corona,"4160 Temescal Canyon Road, Suite 110 Corona, CA 92883",(951) 277-3639,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD63&inframe=N
+ASM_64,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0064",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD64&inframe=N
+ASM_64,capitol,Sacramento,"1021 O Street, Suite 4510 Sacramento, CA 95814",(916) 319-2064,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD64&inframe=N
+ASM_64,district,Downey,"8255 Firestone Boulevard, Suite 203 Downey, CA 90241",(562) 861-5803,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD64&inframe=N
+ASM_65,capitol,Sacramento,"1021 O Street, Suite 6210 Sacramento, CA 95814",(916) 319-2065,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD65&inframe=N
+ASM_65,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0065",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD65&inframe=N
+ASM_65,district,Gardena,"879 West 190th Street, Suite 920 Gardena, CA 90248",(562) 252-0865,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD65&inframe=N
+ASM_66,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0066",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD66&inframe=N
+ASM_66,capitol,Sacramento,"1021 O Street, Suite 5310 Sacramento, CA 95814",(916) 319-2066,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD66&inframe=N
+ASM_66,district,Torrance,"3424 West Carson Street, Suite 450 Torrance, CA 90503",(310) 375-0691,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD66&inframe=N
+ASM_67,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0067",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD67&inframe=N
+ASM_67,capitol,Sacramento,"1021 O Street, Suite 4210 Sacramento, CA 95814",(916) 319-2067,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD67&inframe=N
+ASM_67,district,La Palma,"4 Centerpointe Drive, Suite 120 La Palma, CA 90623",(714) 521-6713,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD67&inframe=N
+ASM_68,capitol,Sacramento,"1021 O Street, Suite 5510 Sacramento, CA 95814",(916) 319-2068,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD68&inframe=N
+ASM_68,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0068",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD68&inframe=N
+ASM_68,district,Anaheim,"2400 East Katella Avenue, Suite 640 Anaheim, CA 92806",(714) 939-8469,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD68&inframe=N
+ASM_69,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0069",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD69&inframe=N
+ASM_69,capitol,Sacramento,"1021 O Street, Suite 8320 Sacramento, CA 95814",(916) 319-2069,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD69&inframe=N
+ASM_69,district,Long Beach,"3777 Long Beach Boulevard, Suite 260 Long Beach, CA 90807",(562) 366-2769,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD69&inframe=N
+ASM_70,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0070",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD70&inframe=N
+ASM_70,capitol,Sacramento,"1021 O Street, Suite 5540 Sacramento, CA 95814",(916) 319-2070,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD70&inframe=N
+ASM_70,district,Westminster,"14361 Beach Boulevard, Suite 211 Westminster, CA 92683",(714) 379-0970,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD70&inframe=N
+ASM_71,capitol,Sacramento,"1021 O Street, Suite 4340 Sacramento, CA 95814",(916) 319-2071,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD71&inframe=N
+ASM_71,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0071",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD71&inframe=N
+ASM_71,district,Rancho Santa Margarita,"22342 Avenida Empresa, Suite 275 Rancho Santa Margarita, CA 92688",(949) 459-7170,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD71&inframe=N
+ASM_71,district,Murrieta,"24630 Washington Avenue, Suite 202 Murrieta, CA 92562",(951) 696-0002,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD71&inframe=N
+ASM_72,capitol,Sacramento,"1021 O Street, Suite 5330 Sacramento, CA 95814",(916) 319-2072,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD72&inframe=N
+ASM_72,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0072",(916) 319-2072,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD72&inframe=N
+ASM_72,district,Newport Beach,"4100 MacArthur Boulevard, Suite 340 Newport Beach, CA 92660",(949) 798-7221,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD72&inframe=N
+ASM_73,capitol,Sacramento,"1021 O Street, Suite 8120 Sacramento, CA 95814",(916) 319-2073,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD73&inframe=N
+ASM_73,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0073",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD73&inframe=N
+ASM_73,district,Irvine,"19712 MacArthur Boulevard, Suite 150 Irvine, CA 92612",(949) 251-0074,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD73&inframe=N
+ASM_74,capitol,Sacramento,"1021 O Street, Suite 4720 Sacramento, CA 95814",(916) 319-2074,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD74&inframe=N
+ASM_74,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0074",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD74&inframe=N
+ASM_74,district,Oceanside,"2420 Vista Way, Suite 112 Oceanside, CA 92054",(760) 433-7400,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD74&inframe=N
+ASM_74,district,San Juan Capistrano,"32332 Camino Capistrano, Suite 102 San Juan Capistrano, CA 92675",(949) 240-7300,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD74&inframe=N
+ASM_75,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0075",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD75&inframe=N
+ASM_75,capitol,Sacramento,"1021 O Street, Suite 4630 Sacramento, CA 95814",(916) 319-2075,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD75&inframe=N
+ASM_75,district,San Diego,"9820 Willow Creek Road, Suite 240 San Diego, CA 92131",(858) 566-7538,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD75&inframe=N
+ASM_76,capitol,Sacramento,"1021 O Street, Suite 5140 Sacramento, CA 95814",(916) 319-2076,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD76&inframe=N
+ASM_76,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0076",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD76&inframe=N
+ASM_76,district,San Diego,"12396 World Trade Drive, Suite 118 San Diego, CA 92128",(858) 675-0760,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD76&inframe=N
+ASM_77,capitol,Sacramento,"1021 O Street, Suite 4150 Sacramento, CA 95814",(916) 319-2077,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD77&inframe=N
+ASM_77,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0077",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD77&inframe=N
+ASM_77,district,Solana Beach,"505 Lomas Santa Fe Drive, Suite 110 Solana Beach, CA 92075",(858) 481-7704,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD77&inframe=N
+ASM_78,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0078",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD78&inframe=N
+ASM_78,capitol,Sacramento,"1021 O Street, Suite 6350 Sacramento, CA 95814",(916) 319-2078,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD78&inframe=N
+ASM_78,district,San Diego,"2700 Adams Avenue, Suite 102 San Diego, CA 92116",(619) 280-7801,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD78&inframe=N
+ASM_79,capitol,Sacramento,"1021 O Street, Suite 4130 Sacramento, CA 95814",(916) 319-2079,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD79&inframe=N
+ASM_79,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0079",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD79&inframe=N
+ASM_79,district,La Mesa,"4700 Spring Street, Suite 301 La Mesa, CA 91942",(619) 465-7903,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD79&inframe=N
+ASM_80,capitol,Sacramento,"1021 O Street, Suite 5320 Sacramento, CA 95814",(916) 319-2080,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD80&inframe=N
+ASM_80,capitol,Sacramento,"P.O. Box 942849 Sacramento, CA 94249-0080",,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD80&inframe=N
+ASM_80,district,Chula Vista,"276 Church Avenue, Suite D Chula Vista, CA 91910",(619) 498-8580,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD80&inframe=N
+SEN_24,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7610, Sacramento, CA 95814-4900",(916) 651-4024,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD24&inframe=N
+SEN_24,district,District Office,"111 Penn Street, Suite 101, El Segundo, CA 90245",(310) 414-8190,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD24&inframe=N
+SEN_04,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7240, Sacramento, CA 95814-4900",(916) 651-4004,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD04&inframe=N
+SEN_04,district,District Office,"4364 Town Center Boulevard, Suite 313, El Dorado Hills, CA 95762",(916) 933-8680,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD04&inframe=N
+SEN_30,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 6620, Sacramento, CA 95814-4900",(916) 651-4030,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD30&inframe=N
+SEN_30,district,District Office,"12501 Imperial Highway, Suite 110, Norwalk, CA 90650",(562) 406-1001,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD30&inframe=N
+SEN_07,capitol,Capitol Office,"Capitol Office, 1021 O Street, Room 6710, Sacramento, CA 95814-4900",(916) 651-4007,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD07&inframe=N
+SEN_07,district,District Office,"1515 Clay Street, Suite 2202, Oakland, CA 94612",(510) 286-1333,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD07&inframe=N
+SEN_08,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 8630, Sacramento, CA 95814-4900",(916) 651-4008,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD08&inframe=N
+SEN_08,district,District Office,"1510 14th Street, Sacramento, CA 95814",(916) 319-0309,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD08&inframe=N
+SEN_13,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 6520, Sacramento, CA 95814-4900",(916) 651-4013,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD13&inframe=N
+SEN_13,district,District Office,"3525 Alameda de las Pulgas, Menlo Park, CA 94025",(650) 233-2724,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD13&inframe=N
+SEN_38,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7720, Sacramento, CA 95814-4900",(916) 651-4038,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD38&inframe=N
+SEN_38,district,District Office,"2385 Camino Vida Roble, Unit 205, Carlsbad, CA 92011",(760) 438-2005,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD38&inframe=N
+SEN_03,capitol,Capitol Office,"Capitol Office, 1021 O Street, Room 7320, Sacramento, CA 95814-4900",(916) 651-4003,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD03&inframe=N
+SEN_03,district,District Office,"2721 Napa Valley Corporate Drive, Building 4, 2nd Floor, Napa, CA 94558",(707) 224-1990,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD03&inframe=N
+SEN_14,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7620, Sacramento, CA 95814-4900",(916) 651-4014,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD14&inframe=N
+SEN_14,district,District Office,"2550 Mariposa Mall, Suite 2016, Fresno, CA 93721",(559) 264-3070,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD14&inframe=N
+SEN_31,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7330, Sacramento, CA 95814-4900",(916) 651-4031,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD31&inframe=N
+SEN_31,district,District Office,"1533 Spruce Street, Suite 230, Riverside, CA 92507",(951) 680-6750,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD31&inframe=N
+SEN_37,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7130, Sacramento, CA 95814-4900",(916) 651-4037,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD37&inframe=N
+SEN_37,district,District Office,"3200 El Camino Real, Suite 230, Irvine, CA 92602",(714) 544-1035,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD37&inframe=N
+SEN_15,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7520, Sacramento, CA 95814-4900",(916) 651-4015,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD15&inframe=N
+SEN_15,district,District Office,"1155 Meridian Avenue, Suite 100, San Jose, CA 95125",(408) 723-4154,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD15&inframe=N
+SEN_01,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7230, Sacramento, CA 95814-4900",(916) 651-4001,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD01&inframe=N
+SEN_01,district,District Office,"1320 Yuba Street, Suite 102, Redding, CA 96001",(530) 224-7001,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD01&inframe=N
+SEN_26,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7530, Sacramento, CA 95814-4900",(916) 651-4026,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD26&inframe=N
+SEN_26,district,District Office,"1808 West Sunset Boulevard, Los Angeles, CA 90026",(213) 483-9300,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD26&inframe=N
+SEN_33,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7510, Sacramento, CA 95814-4900",(916) 651-4033,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD33&inframe=N
+SEN_33,district,District Office,"3939 Atlantic Avenue, Suite 107, Long Beach, CA 90807",(562) 256-7921,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD33&inframe=N
+SEN_09,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7250, Sacramento, CA 95814-4900",(916) 651-4009,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD09&inframe=N
+SEN_09,district,District Office,"3003 Oak Road, Suite 109, Walnut Creek, CA 94597",(925) 944-4901,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD09&inframe=N
+SEN_12,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7150, Sacramento, CA 95814-4900",(916) 651-4012,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD12&inframe=N
+SEN_12,district,District Office,"5701 Truxtun Avenue, Suite 150, Bakersfield, CA 93309",(661) 323-0443,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD12&inframe=N
+SEN_16,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 6510, Sacramento, CA 95814-4900",(916) 651-4016,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD16&inframe=N
+SEN_16,district,District Office,"5201 California Avenue, Suite 220, Bakersfield, CA 93309",(661) 395-2620,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD16&inframe=N
+SEN_40,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7640, Sacramento, CA 95814-4900",(916) 651-4040,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD40&inframe=N
+SEN_40,district,District Office,"10650 Treena Street, Suite 110, San Diego, CA 92131",(858) 547-3818,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD40&inframe=N
+SEN_17,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 8720, Sacramento, CA 95814-4900",(916) 651-4017,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD17&inframe=N
+SEN_17,district,District Office,"99 Pacific Street, Suite 575 F, Monterey, CA 93940",(831) 657-6315,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD17&inframe=N
+SEN_21,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 8518, Sacramento, CA 95814-4900",(916) 651-4021,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD21&inframe=N
+SEN_21,district,District Office,"300 E. Esplanade Drive, Suite 430, Oxnard, CA 93036",(805) 988-1940,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD21&inframe=N
+SEN_02,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 8610, Sacramento, CA 95814-4900",(916) 651-4002,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD02&inframe=N
+SEN_02,district,District Office,"3501 Civic Center Drive, Suite 425, San Rafael, CA 94903",(415) 479-6612,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD02&inframe=N
+SEN_05,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 6640, Sacramento, CA 95814-4900",(916) 651-4005,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD05&inframe=N
+SEN_05,district,District Office,"7488 Shoreline Drive, Suites B2/4, Stockton, CA 95219",(209) 472-9535,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD05&inframe=N
+SEN_20,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 6630, Sacramento, CA 95814-4900",(916) 651-4020,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD20&inframe=N
+SEN_20,district,District Office,"6150 Van Nuys Boulevard, Suite 400, Van Nuys, CA 91401",(818) 901-5588,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD20&inframe=N
+SEN_06,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7110, Sacramento, CA 95814-4900",(916) 651-4006,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD06&inframe=N
+SEN_06,district,District Office,"2200A Douglas Boulevard, Suite 100, Roseville, CA 95661",(916) 772-0571,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD06&inframe=N
+SEN_19,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7220, Sacramento, CA 95814-4900",(916) 651-4019,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD19&inframe=N
+SEN_19,district,District Office,"1758 Orange Tree Lane, Suite B, Redlands, CA 92374",(909) 335-0271,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD19&inframe=N
+SEN_18,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7630, Sacramento, CA 95814-4900",(916) 651-4018,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD18&inframe=N
+SEN_18,district,District Office,"1224 State Street, Suite D, El Centro, CA 92243",(760) 335-3442,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD18&inframe=N
+SEN_25,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 6720, Sacramento, CA 95814-4900",(916) 651-4025,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD25&inframe=N
+SEN_25,district,District Office,"215 North Marengo Avenue, Suite 380, Pasadena, CA 91101",(626) 304-1086,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD25&inframe=N
+SEN_29,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7210, Sacramento, CA 95814-4900",(916) 651-4029,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD29&inframe=N
+SEN_29,district,District Office,"301 E. Vanderbilt Way, Suite 400, San Bernardino, CA 92408",(909) 888-5360,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD29&inframe=N
+SEN_35,capitol,Capitol Office,"Capitol Office, 1021 O Street, Room 7340, Sacramento, CA 95814-4900",(916) 651-4035,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD35&inframe=N
+SEN_35,district,District Office,"One West Manchester Boulevard, Suite 710, Inglewood, CA 90301",(310) 412-6120,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD35&inframe=N
+SEN_22,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 8710, Sacramento, CA 95814-4900",(916) 651-4022,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD22&inframe=N
+SEN_22,district,District Office,"100 South Vincent Avenue, Suite 401, West Covina, CA 91790",(626) 430-2499,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD22&inframe=N
+SEN_32,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7120, Sacramento, CA 95814-4900",(916) 651-4032,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD32&inframe=N
+SEN_32,district,District Office,"24640 Jefferson Avenue, Suite 202, Murrieta, CA 92562",(951) 894-2220,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD32&inframe=N
+SEN_28,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 6530, Sacramento, CA 95814-4900",(916) 651-4028,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD28&inframe=N
+SEN_28,district,District Office,"700 Exposition Park Drive, Los Angeles, CA 90037",(213) 745-6656,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD28&inframe=N
+SEN_27,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7710, Sacramento, CA 95814-4900",(916) 651-4027,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD27&inframe=N
+SEN_27,district,District Office,"14724 Ventura Boulevard, Suite 1115, Sherman Oaks, CA 91403",(818) 501-0650,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD27&inframe=N
+SEN_36,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 6730, Sacramento, CA 95814-4900",(916) 651-4036,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD36&inframe=N
+SEN_36,district,District Office,"301 Main Street, Suite 212, Huntington Beach, CA 92648",(714) 374-4000,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD36&inframe=N
+SEN_34,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 6610, Sacramento, CA 95814-4900",(916) 651-4034,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD34&inframe=N
+SEN_34,district,District Office,"1000 East Santa Ana Boulevard, Suite 220B, Santa Ana, CA 92701",(714) 558-3785,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD34&inframe=N
+SEN_23,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 7140, Sacramento, CA 95814-4900",(916) 651-4023,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD23&inframe=N
+SEN_23,district,District Office,"42505 10th Street W., Suite 109, Lancaster, CA 93534",(661) 729-6232,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD23&inframe=N
+SEN_10,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 8530, Sacramento, CA 95814-4900",(916) 651-4410,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD10&inframe=N
+SEN_10,district,District Office,"39510 Paseo Padre Parkway, Suite 280, Fremont, CA 94538",(510) 794-3900,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD10&inframe=N
+SEN_39,capitol,Capitol Office,"Capitol Office, 1021 O Street, Room 7310, Sacramento, CA 95814-4900",(916) 651-4039,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD39&inframe=N
+SEN_39,district,District Office,"7575 Metropolitan Drive, Suite 100, San Diego, CA 92108",(619) 688-6700,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD39&inframe=N
+SEN_11,capitol,Capitol Office,"Capitol Office, 1021 O Street, Suite 8620, Sacramento, CA 95814-4900",(916) 651-4011,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD11&inframe=N
+SEN_11,district,District Office,"455 Golden Gate Avenue, Suite 14800, San Francisco, CA 94102",(415) 557-1300,,https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=SD11&inframe=N

@@ -1,0 +1,540 @@
+unit_id,unit_name,unit_type,county_name,assigned_wda_id,rule_id,rule_source_note
+U000001,Loyalton,city,Sierra,WDA_017,R0072,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000002,Sierra Unincorporated,county_unincorporated,Sierra,WDA_017,R0072,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000003,Folsom,city,Sacramento,WDA_026,R0103,All cities in the County of Sacramento and all unincorporated areas of the county.
+U000004,Isleton,city,Sacramento,WDA_026,R0103,All cities in the County of Sacramento and all unincorporated areas of the county.
+U000005,Rancho Cordova,city,Sacramento,WDA_026,R0103,All cities in the County of Sacramento and all unincorporated areas of the county.
+U000006,Citrus Heights,city,Sacramento,WDA_026,R0103,All cities in the County of Sacramento and all unincorporated areas of the county.
+U000007,Elk Grove,city,Sacramento,WDA_026,R0103,All cities in the County of Sacramento and all unincorporated areas of the county.
+U000008,Galt,city,Sacramento,WDA_026,R0103,All cities in the County of Sacramento and all unincorporated areas of the county.
+U000009,Sacramento,city,Sacramento,WDA_026,R0103,All cities in the County of Sacramento and all unincorporated areas of the county.
+U000010,Sacramento Unincorporated,county_unincorporated,Sacramento,WDA_026,R0103,All cities in the County of Sacramento and all unincorporated areas of the county.
+U000011,Buellton,city,Santa Barbara,WDA_035,R0119,All cities in the County of Santa Barbara and all unincorporated areas of the county.
+U000012,Carpinteria,city,Santa Barbara,WDA_035,R0119,All cities in the County of Santa Barbara and all unincorporated areas of the county.
+U000013,Guadalupe,city,Santa Barbara,WDA_035,R0119,All cities in the County of Santa Barbara and all unincorporated areas of the county.
+U000014,Solvang,city,Santa Barbara,WDA_035,R0119,All cities in the County of Santa Barbara and all unincorporated areas of the county.
+U000015,Goleta,city,Santa Barbara,WDA_035,R0119,All cities in the County of Santa Barbara and all unincorporated areas of the county.
+U000016,Lompoc,city,Santa Barbara,WDA_035,R0119,All cities in the County of Santa Barbara and all unincorporated areas of the county.
+U000017,Santa Barbara,city,Santa Barbara,WDA_035,R0119,All cities in the County of Santa Barbara and all unincorporated areas of the county.
+U000018,Santa Maria,city,Santa Barbara,WDA_035,R0119,All cities in the County of Santa Barbara and all unincorporated areas of the county.
+U000019,Santa Barbara Unincorporated,county_unincorporated,Santa Barbara,WDA_035,R0119,All cities in the County of Santa Barbara and all unincorporated areas of the county.
+U000020,Angels,city,Calaveras,WDA_016,R0062,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000021,Calaveras Unincorporated,county_unincorporated,Calaveras,WDA_016,R0062,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000022,Ventura,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000023,Moorpark,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000024,Camarillo,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000025,Fillmore,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000026,Oxnard,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000027,Port Hueneme,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000028,Ojai,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000029,Simi Valley,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000030,Thousand Oaks,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000031,Santa Paula,city,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000032,Ventura Unincorporated,county_unincorporated,Ventura,WDA_043,R0141,All cities in the County of Ventura and all unincorporated areas of the county.
+U000033,Agoura Hills,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000034,Artesia,city,Los Angeles,WDA_040,R0132,"Cities of Artesia, Bellflower, Cerritos, Downey, Hawaiian Gardens, Lakewood, and Norwalk in the County of Los Angeles ."
+U000035,Avalon,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000036,Bellflower,city,Los Angeles,WDA_040,R0133,"Cities of Artesia, Bellflower, Cerritos, Downey, Hawaiian Gardens, Lakewood, and Norwalk in the County of Los Angeles ."
+U000037,Bell Gardens,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000038,Claremont,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000039,Commerce,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000040,Cudahy,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000041,El Monte,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000042,El Segundo,city,Los Angeles,WDA_037,R0122,"Cities of Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Manhattan Beach, and Redondo Beach in the County of Los Angeles ."
+U000043,Hawaiian Gardens,city,Los Angeles,WDA_040,R0136,"Cities of Artesia, Bellflower, Cerritos, Downey, Hawaiian Gardens, Lakewood, and Norwalk in the County of Los Angeles ."
+U000044,Hermosa Beach,city,Los Angeles,WDA_037,R0125,"Cities of Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Manhattan Beach, and Redondo Beach in the County of Los Angeles ."
+U000045,Hidden Hills,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000046,Pasadena,city,Los Angeles,WDA_004,R0009,"The cities of Arcadia, Duarte, Monrovia, Pasadena, Sierra Madre, and South Pasadena in the County of Los Angeles ."
+U000047,Santa Monica,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000048,Cerritos,city,Los Angeles,WDA_040,R0134,"Cities of Artesia, Bellflower, Cerritos, Downey, Hawaiian Gardens, Lakewood, and Norwalk in the County of Los Angeles ."
+U000049,Covina,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000050,Lomita,city,Los Angeles,WDA_023,R0097,"Cities of Lomita, Long Beach, Signal Hill, and Torrance in the County of Los Angeles ."
+U000051,Manhattan Beach,city,Los Angeles,WDA_037,R0128,"Cities of Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Manhattan Beach, and Redondo Beach in the County of Los Angeles ."
+U000052,Maywood,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000053,Monrovia,city,Los Angeles,WDA_004,R0008,"The cities of Arcadia, Duarte, Monrovia, Pasadena, Sierra Madre, and South Pasadena in the County of Los Angeles ."
+U000054,San Dimas,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000055,San Fernando,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000056,Glendora,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000057,Hawthorne,city,Los Angeles,WDA_037,R0124,"Cities of Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Manhattan Beach, and Redondo Beach in the County of Los Angeles ."
+U000058,Inglewood,city,Los Angeles,WDA_037,R0126,"Cities of Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Manhattan Beach, and Redondo Beach in the County of Los Angeles ."
+U000059,La Canada-Flintridge,city,Los Angeles,WDA_044,R0144,"Cities of Burbank, Glendale, and La Canada-Flintridge in the County of Los Angeles ."
+U000060,La Mirada,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000061,Palmdale,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000062,Palos Verdes Estates,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000063,Rolling Hills,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000064,Santa Clarita,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000065,Santa Fe Springs,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000066,Vernon,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000067,Walnut,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000068,Sierra Madre,city,Los Angeles,WDA_004,R0010,"The cities of Arcadia, Duarte, Monrovia, Pasadena, Sierra Madre, and South Pasadena in the County of Los Angeles ."
+U000069,South Pasadena,city,Los Angeles,WDA_004,R0011,"The cities of Arcadia, Duarte, Monrovia, Pasadena, Sierra Madre, and South Pasadena in the County of Los Angeles ."
+U000070,Calabasas,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000071,Rolling Hills Estates,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000072,Lynwood,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000073,Baldwin Park,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000074,Beverly Hills,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000075,Glendale,city,Los Angeles,WDA_044,R0143,"Cities of Burbank, Glendale, and La Canada-Flintridge in the County of Los Angeles ."
+U000076,La Puente,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000077,Los Angeles,city,Los Angeles,WDA_011,R0028,Los Angeles City in the County of Los Angeles
+U000078,Paramount,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000079,Temple City,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000080,Lawndale,city,Los Angeles,WDA_037,R0127,"Cities of Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Manhattan Beach, and Redondo Beach in the County of Los Angeles ."
+U000081,La Habra Heights,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000082,Pomona,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000083,Industry,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000084,Diamond Bar,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000085,Duarte,city,Los Angeles,WDA_004,R0007,"The cities of Arcadia, Duarte, Monrovia, Pasadena, Sierra Madre, and South Pasadena in the County of Los Angeles ."
+U000086,Arcadia,city,Los Angeles,WDA_004,R0006,"The cities of Arcadia, Duarte, Monrovia, Pasadena, Sierra Madre, and South Pasadena in the County of Los Angeles ."
+U000087,South El Monte,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000088,Monterey Park,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000089,West Hollywood,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000090,West Covina,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000091,La Verne,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000092,Irwindale,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000093,San Marino,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000094,Burbank,city,Los Angeles,WDA_044,R0142,"Cities of Burbank, Glendale, and La Canada-Flintridge in the County of Los Angeles ."
+U000095,Azusa,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000096,Westlake Village,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000097,Long Beach,city,Los Angeles,WDA_023,R0098,"Cities of Lomita, Long Beach, Signal Hill, and Torrance in the County of Los Angeles ."
+U000098,Signal Hill,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000099,Rancho Palos Verdes,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000100,Malibu,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000101,Lancaster,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000102,Alhambra,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000103,Rosemead,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000104,Montebello,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000105,Gardena,city,Los Angeles,WDA_037,R0123,"Cities of Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Manhattan Beach, and Redondo Beach in the County of Los Angeles ."
+U000106,Lakewood,city,Los Angeles,WDA_040,R0137,"Cities of Artesia, Bellflower, Cerritos, Downey, Hawaiian Gardens, Lakewood, and Norwalk in the County of Los Angeles ."
+U000107,Compton,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000108,San Gabriel,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000109,Norwalk,city,Los Angeles,WDA_040,R0138,"Cities of Artesia, Bellflower, Cerritos, Downey, Hawaiian Gardens, Lakewood, and Norwalk in the County of Los Angeles ."
+U000110,Downey,city,Los Angeles,WDA_040,R0135,"Cities of Artesia, Bellflower, Cerritos, Downey, Hawaiian Gardens, Lakewood, and Norwalk in the County of Los Angeles ."
+U000111,Whittier,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000112,Pico Rivera,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000113,Bell,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000114,Huntington Park,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000115,South Gate,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000116,Culver City,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000117,Redondo Beach,city,Los Angeles,WDA_037,R0129,"Cities of Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Manhattan Beach, and Redondo Beach in the County of Los Angeles ."
+U000118,Torrance,city,Los Angeles,WDA_023,R0100,"Cities of Lomita, Long Beach, Signal Hill, and Torrance in the County of Los Angeles ."
+U000119,Carson,city,Los Angeles,WDA_037,R0121,"Cities of Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Manhattan Beach, and Redondo Beach in the County of Los Angeles ."
+U000120,Bradbury,city,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000121,Los Angeles Unincorporated,county_unincorporated,Los Angeles,WDA_012,R0029,"All cities and unincorporated areas of the County of Los Angeles , excluding the cities of Arcadia, Artesia, Bellflower, Burbank, Carson, Cerritos, Downey, Duarte, El Segundo, Gardena, Glendale, Hawaiian Gardens, Hawthorne, Hermosa Beach, Inglewood, La Canada-Flintridge, Lakewood, Lawndale, Lomita, Long Beach, Los Angeles, Manhattan Beach, Monrovia, Norwalk, Pasadena, Redondo Beach, Sierra Madre, South Pasadena, and Torrance."
+U000122,Cloverdale,city,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000123,Cotati,city,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000124,Rohnert Park,city,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000125,Sebastopol,city,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000126,Sonoma,city,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000127,Petaluma,city,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000128,Santa Rosa,city,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000129,Healdsburg,city,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000130,Windsor,city,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000131,Sonoma Unincorporated,county_unincorporated,Sonoma,WDA_039,R0131,All cities in the County of Sonoma and all unincorporated areas of the county.
+U000132,Avenal,city,Kings,WDA_010,R0027,All cities in the County of Kings and all unincorporated areas of the county.
+U000133,Lemoore,city,Kings,WDA_010,R0027,All cities in the County of Kings and all unincorporated areas of the county.
+U000134,Hanford,city,Kings,WDA_010,R0027,All cities in the County of Kings and all unincorporated areas of the county.
+U000135,Corcoran,city,Kings,WDA_010,R0027,All cities in the County of Kings and all unincorporated areas of the county.
+U000136,Kings Unincorporated,county_unincorporated,Kings,WDA_010,R0027,All cities in the County of Kings and all unincorporated areas of the county.
+U000137,Del Mar,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000138,Coronado,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000139,Escondido,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000140,Imperial Beach,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000141,Lemon Grove,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000142,Chula Vista,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000143,San Diego,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000144,El Cajon,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000145,Encinitas,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000146,La Mesa,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000147,Oceanside,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000148,Poway,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000149,San Marcos,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000150,Vista,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000151,Carlsbad,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000152,National City,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000153,Santee,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000154,Solana Beach,city,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000155,San Diego Unincorporated,county_unincorporated,San Diego,WDA_029,R0106,All cities in the County of San Diego and all unincorporated areas of the county.
+U000156,Lincoln,city,Placer,WDA_006,R0021,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000157,Loomis,city,Placer,WDA_006,R0021,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000158,Rocklin,city,Placer,WDA_006,R0021,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000159,Auburn,city,Placer,WDA_006,R0021,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000160,Roseville,city,Placer,WDA_006,R0021,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000161,Colfax,city,Placer,WDA_006,R0021,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000162,Placer Unincorporated,county_unincorporated,Placer,WDA_006,R0021,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000163,San Francisco,city,San Francisco,WDA_030,R0107,The city and the County of San Francisco .
+U000164,Corte Madera,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000165,Ross,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000166,San Anselmo,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000167,Mill Valley,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000168,Tiburon,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000169,Belvedere,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000170,Fairfax,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000171,Larkspur,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000172,Novato,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000173,San Rafael,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000174,Sausalito,city,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000175,Marin Unincorporated,county_unincorporated,Marin,WDA_019,R0080,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000176,Mariposa Unincorporated,county_unincorporated,Mariposa,WDA_016,R0063,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000177,Susanville,city,Lassen,WDA_017,R0067,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000178,Lassen Unincorporated,county_unincorporated,Lassen,WDA_017,R0067,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000179,American Canyon,city,Napa,WDA_019,R0082,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000180,Calistoga,city,Napa,WDA_019,R0082,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000181,Yountville,city,Napa,WDA_019,R0082,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000182,Napa,city,Napa,WDA_019,R0082,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000183,St. Helena,city,Napa,WDA_019,R0082,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000184,Napa Unincorporated,county_unincorporated,Napa,WDA_019,R0082,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000185,Redding,city,Shasta,WDA_017,R0071,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000186,Shasta Lake,city,Shasta,WDA_017,R0071,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000187,Anderson,city,Shasta,WDA_017,R0071,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000188,Shasta Unincorporated,county_unincorporated,Shasta,WDA_017,R0071,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000189,Monterey,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000190,Salinas,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000191,Pacific Grove,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000192,Carmel-by-the-Sea,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000193,Del Rey Oaks,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000194,Gonzales,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000195,Greenfield,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000196,Marina,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000197,Sand City,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000198,Seaside,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000199,Soledad,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000200,King City,city,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000201,Monterey Unincorporated,county_unincorporated,Monterey,WDA_015,R0060,All cities in the County of Monterey and all unincorporated areas of the county.
+U000202,Trinity Unincorporated,county_unincorporated,Trinity,WDA_017,R0075,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000203,Point Arena,city,Mendocino,WDA_019,R0081,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000204,Willits,city,Mendocino,WDA_019,R0081,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000205,Ukiah,city,Mendocino,WDA_019,R0081,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000206,Fort Bragg,city,Mendocino,WDA_019,R0081,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000207,Mendocino Unincorporated,county_unincorporated,Mendocino,WDA_019,R0081,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000208,Bishop,city,Inyo,WDA_009,R0025,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000209,Inyo Unincorporated,county_unincorporated,Inyo,WDA_009,R0025,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000210,Mammoth Lakes,city,Mono,WDA_009,R0026,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000211,Mono Unincorporated,county_unincorporated,Mono,WDA_009,R0026,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000212,Sonora,city,Tuolumne,WDA_016,R0064,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000213,Tuolumne Unincorporated,county_unincorporated,Tuolumne,WDA_016,R0064,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000214,Benicia,city,Solano,WDA_038,R0130,All cities in the County of Solano and all unincorporated areas of the county.
+U000215,Dixon,city,Solano,WDA_038,R0130,All cities in the County of Solano and all unincorporated areas of the county.
+U000216,Rio Vista,city,Solano,WDA_038,R0130,All cities in the County of Solano and all unincorporated areas of the county.
+U000217,Suisun City,city,Solano,WDA_038,R0130,All cities in the County of Solano and all unincorporated areas of the county.
+U000218,Vallejo,city,Solano,WDA_038,R0130,All cities in the County of Solano and all unincorporated areas of the county.
+U000219,Fairfield,city,Solano,WDA_038,R0130,All cities in the County of Solano and all unincorporated areas of the county.
+U000220,Vacaville,city,Solano,WDA_038,R0130,All cities in the County of Solano and all unincorporated areas of the county.
+U000221,Solano Unincorporated,county_unincorporated,Solano,WDA_038,R0130,All cities in the County of Solano and all unincorporated areas of the county.
+U000222,Rancho Cucamonga,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000223,Barstow,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000224,Colton,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000225,Grand Terrace,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000226,Apple Valley,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000227,San Bernardino,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000228,Hesperia,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000229,Victorville,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000230,Chino Hills,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000231,Highland,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000232,Chino,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000233,Loma Linda,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000234,Montclair,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000235,Needles,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000236,Ontario,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000237,Twentynine Palms,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000238,Upland,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000239,Yucaipa,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000240,Yucca Valley,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000241,Adelanto,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000242,Redlands,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000243,Big Bear Lake,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000244,Fontana,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000245,Rialto,city,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000246,San Bernardino Unincorporated,county_unincorporated,San Bernardino,WDA_028,R0105,"All cities in the County of San Bernardino , excluding the City of San Bernardino and all unincorporated areas of the county."
+U000247,Antioch,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000248,Concord,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000249,Danville,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000250,Martinez,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000251,Pittsburg,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000252,Pleasant Hill,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000253,San Ramon,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000254,Walnut Creek,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000255,Oakley,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000256,Clayton,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000257,El Cerrito,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000258,Hercules,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000259,Moraga,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000260,Brentwood,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000261,Orinda,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000262,Pinole,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000263,Richmond,city,Contra Costa,WDA_024,R0101,City of Richmond in the County of Contra Costa .
+U000264,San Pablo,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000265,Lafayette,city,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000266,Contra Costa Unincorporated,county_unincorporated,Contra Costa,WDA_003,R0004,"All cities in the County of Contra Costa , excluding the City of Richmond, and all unincorporated areas of the county."
+U000267,Alpine Unincorporated,county_unincorporated,Alpine,WDA_006,R0019,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000268,Placerville,city,El Dorado,WDA_006,R0020,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000269,South Lake Tahoe,city,El Dorado,WDA_006,R0020,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000270,El Dorado Unincorporated,county_unincorporated,El Dorado,WDA_006,R0020,"All cities in the counties of Alpine , El Dorado , Placer , and all unincorporated areas of these counties."
+U000271,Davis,city,Yolo,WDA_045,R0145,All cities in the County of Yolo and all unincorporated areas of the county.
+U000272,West Sacramento,city,Yolo,WDA_045,R0145,All cities in the County of Yolo and all unincorporated areas of the county.
+U000273,Winters,city,Yolo,WDA_045,R0145,All cities in the County of Yolo and all unincorporated areas of the county.
+U000274,Woodland,city,Yolo,WDA_045,R0145,All cities in the County of Yolo and all unincorporated areas of the county.
+U000275,Yolo Unincorporated,county_unincorporated,Yolo,WDA_045,R0145,All cities in the County of Yolo and all unincorporated areas of the county.
+U000276,Marysville,city,Yuba,WDA_018,R0079,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000277,Wheatland,city,Yuba,WDA_018,R0079,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000278,Yuba Unincorporated,county_unincorporated,Yuba,WDA_018,R0079,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000279,Hollister,city,San Benito,WDA_027,R0104,All cities in the County of San Benito and all unincorporated areas of the county.
+U000280,San Juan Bautista,city,San Benito,WDA_027,R0104,All cities in the County of San Benito and all unincorporated areas of the county.
+U000281,San Benito Unincorporated,county_unincorporated,San Benito,WDA_027,R0104,All cities in the County of San Benito and all unincorporated areas of the county.
+U000282,Blue Lake,city,Humboldt,WDA_007,R0022,All cities in the County of Humboldt and all unincorporated areas of the county.
+U000283,Fortuna,city,Humboldt,WDA_007,R0022,All cities in the County of Humboldt and all unincorporated areas of the county.
+U000284,Rio Dell,city,Humboldt,WDA_007,R0022,All cities in the County of Humboldt and all unincorporated areas of the county.
+U000285,Trinidad,city,Humboldt,WDA_007,R0022,All cities in the County of Humboldt and all unincorporated areas of the county.
+U000286,Ferndale,city,Humboldt,WDA_007,R0022,All cities in the County of Humboldt and all unincorporated areas of the county.
+U000287,Arcata,city,Humboldt,WDA_007,R0022,All cities in the County of Humboldt and all unincorporated areas of the county.
+U000288,Eureka,city,Humboldt,WDA_007,R0022,All cities in the County of Humboldt and all unincorporated areas of the county.
+U000289,Humboldt Unincorporated,county_unincorporated,Humboldt,WDA_007,R0022,All cities in the County of Humboldt and all unincorporated areas of the county.
+U000290,Riverside,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000291,Moreno Valley,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000292,Corona,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000293,Lake Elsinore,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000294,Beaumont,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000295,Hemet,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000296,Norco,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000297,Cathedral City,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000298,San Jacinto,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000299,Palm Desert,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000300,Menifee,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000301,Wildomar,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000302,Banning,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000303,Calimesa,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000304,Canyon Lake,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000305,Coachella,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000306,Indian Wells,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000307,La Quinta,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000308,Rancho Mirage,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000309,Temecula,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000310,Desert Hot Springs,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000311,Palm Springs,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000312,Jurupa Valley,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000313,Blythe,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000314,Indio,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000315,Perris,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000316,Eastvale,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000317,Murrieta,city,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000318,Riverside Unincorporated,county_unincorporated,Riverside,WDA_025,R0102,All cities in the County of Riverside and all unincorporated areas of the county.
+U000319,Bakersfield,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000320,Arvin,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000321,Ridgecrest,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000322,Tehachapi,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000323,Delano,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000324,McFarland,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000325,Maricopa,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000326,Shafter,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000327,Wasco,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000328,California City,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000329,Taft,city,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000330,Kern Unincorporated,county_unincorporated,Kern,WDA_009,R0024,"All cities in the counties of Kern , Inyo , and Mono and all unincorporated areas of these counties."
+U000331,Williams,city,Colusa,WDA_018,R0076,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000332,Colusa,city,Colusa,WDA_018,R0076,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000333,Colusa Unincorporated,county_unincorporated,Colusa,WDA_018,R0076,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000334,Crescent City,city,Del Norte,WDA_017,R0066,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000335,Del Norte Unincorporated,county_unincorporated,Del Norte,WDA_017,R0066,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000336,Alturas,city,Modoc,WDA_017,R0068,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000337,Modoc Unincorporated,county_unincorporated,Modoc,WDA_017,R0068,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000338,Clovis,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000339,Fresno,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000340,Coalinga,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000341,Firebaugh,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000342,Fowler,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000343,Kingsburg,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000344,Mendota,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000345,Orange Cove,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000346,Parlier,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000347,Reedley,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000348,Sanger,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000349,Selma,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000350,San Joaquin,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000351,Huron,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000352,Kerman,city,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000353,Fresno Unincorporated,county_unincorporated,Fresno,WDA_005,R0018,All cities in the County of Fresno and all unincorporated areas of the county.
+U000354,Madera,city,Madera,WDA_013,R0058,All cities in the County of Madera and all unincorporated areas of the county.
+U000355,Chowchilla,city,Madera,WDA_013,R0058,All cities in the County of Madera and all unincorporated areas of the county.
+U000356,Madera Unincorporated,county_unincorporated,Madera,WDA_013,R0058,All cities in the County of Madera and all unincorporated areas of the county.
+U000357,Milpitas,city,Santa Clara,WDA_020,R0088,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000358,Los Gatos,city,Santa Clara,WDA_032,R0114,"Cities of San José, Campbell, Morgan Hill, Los Altos Hills, Gilroy, Los Gatos, Saratoga, and Monte Sereno in the County of Santa Clara ."
+U000359,Gilroy,city,Santa Clara,WDA_032,R0113,"Cities of San José, Campbell, Morgan Hill, Los Altos Hills, Gilroy, Los Gatos, Saratoga, and Monte Sereno in the County of Santa Clara ."
+U000360,Saratoga,city,Santa Clara,WDA_032,R0115,"Cities of San José, Campbell, Morgan Hill, Los Altos Hills, Gilroy, Los Gatos, Saratoga, and Monte Sereno in the County of Santa Clara ."
+U000361,Campbell,city,Santa Clara,WDA_032,R0110,"Cities of San José, Campbell, Morgan Hill, Los Altos Hills, Gilroy, Los Gatos, Saratoga, and Monte Sereno in the County of Santa Clara ."
+U000362,Cupertino,city,Santa Clara,WDA_020,R0086,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000363,Los Altos Hills,city,Santa Clara,WDA_032,R0112,"Cities of San José, Campbell, Morgan Hill, Los Altos Hills, Gilroy, Los Gatos, Saratoga, and Monte Sereno in the County of Santa Clara ."
+U000364,Monte Sereno,city,Santa Clara,WDA_032,R0116,"Cities of San José, Campbell, Morgan Hill, Los Altos Hills, Gilroy, Los Gatos, Saratoga, and Monte Sereno in the County of Santa Clara ."
+U000365,Palo Alto,city,Santa Clara,WDA_020,R0090,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000366,San Jose,city,Santa Clara,WDA_032,R0109,"Cities of San José, Campbell, Morgan Hill, Los Altos Hills, Gilroy, Los Gatos, Saratoga, and Monte Sereno in the County of Santa Clara ."
+U000367,Sunnyvale,city,Santa Clara,WDA_020,R0091,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000368,Mountain View,city,Santa Clara,WDA_020,R0089,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000369,Los Altos,city,Santa Clara,WDA_020,R0087,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000370,Santa Clara,city,Santa Clara,WDA_020,R0092,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000371,Morgan Hill,city,Santa Clara,WDA_032,R0111,"Cities of San José, Campbell, Morgan Hill, Los Altos Hills, Gilroy, Los Gatos, Saratoga, and Monte Sereno in the County of Santa Clara ."
+U000372,Santa Clara Unincorporated,county_unincorporated,Santa Clara,WDA_020,R0085,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000373,Corning,city,Tehama,WDA_017,R0074,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000374,Tehama,city,Tehama,WDA_017,R0074,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000375,Red Bluff,city,Tehama,WDA_017,R0074,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000376,Tehama Unincorporated,county_unincorporated,Tehama,WDA_017,R0074,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000377,Lathrop,city,San Joaquin,WDA_031,R0108,All cities in the County of San Joaquin and all unincorporated areas of the county.
+U000378,Lodi,city,San Joaquin,WDA_031,R0108,All cities in the County of San Joaquin and all unincorporated areas of the county.
+U000379,Manteca,city,San Joaquin,WDA_031,R0108,All cities in the County of San Joaquin and all unincorporated areas of the county.
+U000380,Tracy,city,San Joaquin,WDA_031,R0108,All cities in the County of San Joaquin and all unincorporated areas of the county.
+U000381,Escalon,city,San Joaquin,WDA_031,R0108,All cities in the County of San Joaquin and all unincorporated areas of the county.
+U000382,Ripon,city,San Joaquin,WDA_031,R0108,All cities in the County of San Joaquin and all unincorporated areas of the county.
+U000383,Stockton,city,San Joaquin,WDA_031,R0108,All cities in the County of San Joaquin and all unincorporated areas of the county.
+U000384,San Joaquin Unincorporated,county_unincorporated,San Joaquin,WDA_031,R0108,All cities in the County of San Joaquin and all unincorporated areas of the county.
+U000385,Hayward,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000386,Livermore,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000387,Pleasanton,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000388,Piedmont,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000389,Oakland,city,Alameda,WDA_021,R0093,City of Oakland in the County of Alameda .
+U000390,Alameda,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000391,Albany,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000392,Berkeley,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000393,Dublin,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000394,Emeryville,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000395,Newark,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000396,San Leandro,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000397,Union City,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000398,Fremont,city,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000399,Alameda Unincorporated,county_unincorporated,Alameda,WDA_001,R0001,"All cities in the County of Alameda , excluding the City of Oakland, and all unincorporated areas of the county."
+U000400,Grass Valley,city,Nevada,WDA_017,R0069,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000401,Nevada City,city,Nevada,WDA_017,R0069,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000402,Truckee,city,Nevada,WDA_017,R0069,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000403,Nevada Unincorporated,county_unincorporated,Nevada,WDA_017,R0069,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000404,Biggs,city,Butte,WDA_017,R0065,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000405,Gridley,city,Butte,WDA_017,R0065,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000406,Chico,city,Butte,WDA_017,R0065,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000407,Oroville,city,Butte,WDA_017,R0065,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000408,Paradise,city,Butte,WDA_017,R0065,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000409,Butte Unincorporated,county_unincorporated,Butte,WDA_017,R0065,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000410,Dos Palos,city,Merced,WDA_014,R0059,All cities in the County of Merced and all unincorporated areas of the county.
+U000411,Gustine,city,Merced,WDA_014,R0059,All cities in the County of Merced and all unincorporated areas of the county.
+U000412,Livingston,city,Merced,WDA_014,R0059,All cities in the County of Merced and all unincorporated areas of the county.
+U000413,Los Banos,city,Merced,WDA_014,R0059,All cities in the County of Merced and all unincorporated areas of the county.
+U000414,Atwater,city,Merced,WDA_014,R0059,All cities in the County of Merced and all unincorporated areas of the county.
+U000415,Merced,city,Merced,WDA_014,R0059,All cities in the County of Merced and all unincorporated areas of the county.
+U000416,Merced Unincorporated,county_unincorporated,Merced,WDA_014,R0059,All cities in the County of Merced and all unincorporated areas of the county.
+U000417,Dinuba,city,Tulare,WDA_042,R0140,All cities in the County of Tulare and all unincorporated areas of the county.
+U000418,Exeter,city,Tulare,WDA_042,R0140,All cities in the County of Tulare and all unincorporated areas of the county.
+U000419,Farmersville,city,Tulare,WDA_042,R0140,All cities in the County of Tulare and all unincorporated areas of the county.
+U000420,Lindsay,city,Tulare,WDA_042,R0140,All cities in the County of Tulare and all unincorporated areas of the county.
+U000421,Visalia,city,Tulare,WDA_042,R0140,All cities in the County of Tulare and all unincorporated areas of the county.
+U000422,Porterville,city,Tulare,WDA_042,R0140,All cities in the County of Tulare and all unincorporated areas of the county.
+U000423,Tulare,city,Tulare,WDA_042,R0140,All cities in the County of Tulare and all unincorporated areas of the county.
+U000424,Woodlake,city,Tulare,WDA_042,R0140,All cities in the County of Tulare and all unincorporated areas of the county.
+U000425,Tulare Unincorporated,county_unincorporated,Tulare,WDA_042,R0140,All cities in the County of Tulare and all unincorporated areas of the county.
+U000426,Ceres,city,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000427,Hughson,city,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000428,Newman,city,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000429,Oakdale,city,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000430,Turlock,city,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000431,Patterson,city,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000432,Riverbank,city,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000433,Waterford,city,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000434,Modesto,city,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000435,Stanislaus Unincorporated,county_unincorporated,Stanislaus,WDA_041,R0139,All cities in the County of Stanislaus and all unincorporated areas of the county.
+U000436,Newport Beach,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000437,Brea,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000438,Irvine,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000439,La Habra,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000440,Stanton,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000441,La Palma,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000442,Los Alamitos,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000443,Mission Viejo,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000444,Rancho Santa Margarita,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000445,San Clemente,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000446,Seal Beach,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000447,Villa Park,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000448,Aliso Viejo,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000449,Huntington Beach,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000450,Tustin,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000451,Buena Park,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000452,Dana Point,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000453,Fountain Valley,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000454,Laguna Beach,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000455,Laguna Hills,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000456,Laguna Woods,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000457,Lake Forest,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000458,Anaheim,city,Orange,WDA_002,R0003,City of Anaheim in the County of Orange .
+U000459,Costa Mesa,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000460,Cypress,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000461,Fullerton,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000462,Garden Grove,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000463,Laguna Niguel,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000464,Orange,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000465,Placentia,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000466,San Juan Capistrano,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000467,Santa Ana,city,Orange,WDA_034,R0118,City of Santa Ana in the County of Orange .
+U000468,Westminster,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000469,Yorba Linda,city,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000470,Orange Unincorporated,county_unincorporated,Orange,WDA_022,R0094,"All cities in the County of Orange , excluding the cities of Anaheim and Santa Ana, and all unincorporated areas of the county."
+U000471,Brawley,city,Imperial,WDA_008,R0023,All cities in the County of Imperial and all unincorporated areas of the county.
+U000472,Calexico,city,Imperial,WDA_008,R0023,All cities in the County of Imperial and all unincorporated areas of the county.
+U000473,El Centro,city,Imperial,WDA_008,R0023,All cities in the County of Imperial and all unincorporated areas of the county.
+U000474,Holtville,city,Imperial,WDA_008,R0023,All cities in the County of Imperial and all unincorporated areas of the county.
+U000475,Imperial,city,Imperial,WDA_008,R0023,All cities in the County of Imperial and all unincorporated areas of the county.
+U000476,Westmorland,city,Imperial,WDA_008,R0023,All cities in the County of Imperial and all unincorporated areas of the county.
+U000477,Calipatria,city,Imperial,WDA_008,R0023,All cities in the County of Imperial and all unincorporated areas of the county.
+U000478,Imperial Unincorporated,county_unincorporated,Imperial,WDA_008,R0023,All cities in the County of Imperial and all unincorporated areas of the county.
+U000479,Yuba City,city,Sutter,WDA_018,R0078,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000480,Live Oak,city,Sutter,WDA_018,R0078,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000481,Sutter Unincorporated,county_unincorporated,Sutter,WDA_018,R0078,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000482,Amador City,city,Amador,WDA_016,R0061,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000483,Ione,city,Amador,WDA_016,R0061,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000484,Jackson,city,Amador,WDA_016,R0061,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000485,Plymouth,city,Amador,WDA_016,R0061,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000486,Sutter Creek,city,Amador,WDA_016,R0061,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000487,Amador Unincorporated,county_unincorporated,Amador,WDA_016,R0061,"All cities in the counties of Amador , Calaveras , Mariposa , and Tuolumne and all unincorporated areas of these counties."
+U000488,Clearlake,city,Lake,WDA_019,R0083,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000489,Lakeport,city,Lake,WDA_019,R0083,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000490,Lake Unincorporated,county_unincorporated,Lake,WDA_019,R0083,"All cities in Marin , Mendocino , Napa , and Lake Counties."
+U000491,Portola,city,Plumas,WDA_017,R0070,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000492,Plumas Unincorporated,county_unincorporated,Plumas,WDA_017,R0070,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000493,San Bruno,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000494,Atherton,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000495,Brisbane,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000496,Colma,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000497,East Palo Alto,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000498,Foster City,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000499,Half Moon Bay,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000500,Hillsborough,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000501,Millbrae,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000502,Pacifica,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000503,Menlo Park,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000504,San Mateo,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000505,Portola Valley,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000506,Belmont,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000507,Burlingame,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000508,Daly City,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000509,San Carlos,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000510,South San Francisco,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000511,Woodside,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000512,Redwood City,city,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000513,San Mateo Unincorporated,county_unincorporated,San Mateo,WDA_020,R0084,"All cities in the counties of San Mateo and Santa Clara and all unincorporated areas of the counties, including the cities of Cupertino, Los Altos, Milpitas, Mountain View, Palo Alto, and Sunnyvale."
+U000514,Dunsmuir,city,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000515,Etna,city,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000516,Fort Jones,city,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000517,Montague,city,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000518,Weed,city,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000519,Tulelake,city,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000520,Dorris,city,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000521,Mount Shasta,city,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000522,Yreka,city,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000523,Siskiyou Unincorporated,county_unincorporated,Siskiyou,WDA_017,R0073,"All cities in the counties of Butte , Del Norte , Lassen , Modoc , Nevada , Plumas , Shasta , Sierra , Siskiyou , Tehama , and Trinity and all unincorporated areas of these counties."
+U000524,Watsonville,city,Santa Cruz,WDA_036,R0120,All cities in the County of Santa Cruz and all unincorporated areas of the county.
+U000525,Santa Cruz,city,Santa Cruz,WDA_036,R0120,All cities in the County of Santa Cruz and all unincorporated areas of the county.
+U000526,Capitola,city,Santa Cruz,WDA_036,R0120,All cities in the County of Santa Cruz and all unincorporated areas of the county.
+U000527,Scotts Valley,city,Santa Cruz,WDA_036,R0120,All cities in the County of Santa Cruz and all unincorporated areas of the county.
+U000528,Santa Cruz Unincorporated,county_unincorporated,Santa Cruz,WDA_036,R0120,All cities in the County of Santa Cruz and all unincorporated areas of the county.
+U000529,Orland,city,Glenn,WDA_018,R0077,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000530,Willows,city,Glenn,WDA_018,R0077,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000531,Glenn Unincorporated,county_unincorporated,Glenn,WDA_018,R0077,"All cities in the counties of Colusa , Glenn , Sutter , and Yuba and all unincorporated areas of these counties."
+U000532,El Paso de Robles (Paso Robles),city,San Luis Obispo,WDA_033,R0117,All cities in the County of San Luis Obispo and all unincorporated areas of the county.
+U000533,Morro Bay,city,San Luis Obispo,WDA_033,R0117,All cities in the County of San Luis Obispo and all unincorporated areas of the county.
+U000534,San Luis Obispo,city,San Luis Obispo,WDA_033,R0117,All cities in the County of San Luis Obispo and all unincorporated areas of the county.
+U000535,Atascadero,city,San Luis Obispo,WDA_033,R0117,All cities in the County of San Luis Obispo and all unincorporated areas of the county.
+U000536,Grover Beach,city,San Luis Obispo,WDA_033,R0117,All cities in the County of San Luis Obispo and all unincorporated areas of the county.
+U000537,Pismo Beach,city,San Luis Obispo,WDA_033,R0117,All cities in the County of San Luis Obispo and all unincorporated areas of the county.
+U000538,Arroyo Grande,city,San Luis Obispo,WDA_033,R0117,All cities in the County of San Luis Obispo and all unincorporated areas of the county.
+U000539,San Luis Obispo Unincorporated,county_unincorporated,San Luis Obispo,WDA_033,R0117,All cities in the County of San Luis Obispo and all unincorporated areas of the county.

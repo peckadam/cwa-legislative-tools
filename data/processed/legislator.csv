@@ -1,0 +1,121 @@
+legislator_id,chamber,district_number,full_name,party
+ASM_01,assembly,1,Heather Hadwick,Republican
+ASM_02,assembly,2,Chris Rogers,Democrat
+ASM_03,assembly,3,James Gallagher,Republican
+ASM_04,assembly,4,Cecilia M. Aguiar-Curry,Democrat
+ASM_05,assembly,5,Joe Patterson,Republican
+ASM_06,assembly,6,Maggy Krell,Democrat
+ASM_07,assembly,7,Josh Hoover,Republican
+ASM_08,assembly,8,David J. Tangipa,Republican
+ASM_09,assembly,9,Heath Flora,Republican
+ASM_10,assembly,10,Stephanie Nguyen,Democrat
+ASM_11,assembly,11,Lori D. Wilson,Democrat
+ASM_12,assembly,12,Damon Connolly,Democrat
+ASM_13,assembly,13,Rhodesia Ransom,Democrat
+ASM_14,assembly,14,Buffy Wicks,Democrat
+ASM_15,assembly,15,Anamarie Ávila Farías,Democrat
+ASM_16,assembly,16,Rebecca Bauer-Kahan,Democrat
+ASM_17,assembly,17,Matt Haney,Democrat
+ASM_18,assembly,18,Mia Bonta,Democrat
+ASM_19,assembly,19,Catherine Stefani,Democrat
+ASM_20,assembly,20,Liz Ortega,Democrat
+ASM_21,assembly,21,Diane Papan,Democrat
+ASM_22,assembly,22,Juan Alanis,Republican
+ASM_23,assembly,23,Marc Berman,Democrat
+ASM_24,assembly,24,Alex Lee,Democrat
+ASM_25,assembly,25,Ash Kalra,Democrat
+ASM_26,assembly,26,Patrick J. Ahrens,Democrat
+ASM_27,assembly,27,Esmeralda Z. Soria,Democrat
+ASM_28,assembly,28,Gail Pellerin,Democrat
+ASM_29,assembly,29,Robert Rivas,Democrat
+ASM_30,assembly,30,Dawn Addis,Democrat
+ASM_31,assembly,31,Dr. Joaquin Arambula,Democrat
+ASM_32,assembly,32,Stan Ellis,Republican
+ASM_33,assembly,33,Alexandra M. Macedo,Republican
+ASM_34,assembly,34,Tom Lackey,Republican
+ASM_35,assembly,35,Jasmeet Kaur Bains,Democrat
+ASM_36,assembly,36,Jeff Gonzalez,Republican
+ASM_37,assembly,37,Gregg Hart,Democrat
+ASM_38,assembly,38,Steve Bennett,Democrat
+ASM_39,assembly,39,Juan Carrillo,Democrat
+ASM_40,assembly,40,Pilar Schiavo,Democrat
+ASM_41,assembly,41,John Harabedian,Democrat
+ASM_42,assembly,42,Jacqui Irwin,Democrat
+ASM_43,assembly,43,Celeste Rodriguez,Democrat
+ASM_44,assembly,44,Nick Schultz,Democrat
+ASM_45,assembly,45,James C. Ramos,Democrat
+ASM_46,assembly,46,Jesse Gabriel,Democrat
+ASM_47,assembly,47,Greg Wallis,Republican
+ASM_48,assembly,48,Blanca E. Rubio,Democrat
+ASM_49,assembly,49,Mike Fong,Democrat
+ASM_50,assembly,50,Robert Garcia,Democrat
+ASM_51,assembly,51,Rick Chavez Zbur,Democrat
+ASM_52,assembly,52,Jessica M. Caloza,Democrat
+ASM_53,assembly,53,Michelle Rodriguez,Democrat
+ASM_54,assembly,54,Mark González,Democrat
+ASM_55,assembly,55,Isaac G. Bryan,Democrat
+ASM_56,assembly,56,Lisa Calderon,Democrat
+ASM_57,assembly,57,Sade Elhawary,Democrat
+ASM_58,assembly,58,Leticia Castillo,Republican
+ASM_59,assembly,59,Phillip Chen,Republican
+ASM_60,assembly,60,Dr. Corey A. Jackson,Democrat
+ASM_61,assembly,61,Tina S. McKinnor,Democrat
+ASM_62,assembly,62,José Luis Solache Jr.,Democrat
+ASM_63,assembly,63,Natasha Johnson,Republican
+ASM_64,assembly,64,Blanca Pacheco,Democrat
+ASM_65,assembly,65,Mike A. Gipson,Democrat
+ASM_66,assembly,66,Al Muratsuchi,Democrat
+ASM_67,assembly,67,Sharon Quirk-Silva,Democrat
+ASM_68,assembly,68,Avelino Valencia,Democrat
+ASM_69,assembly,69,Josh Lowenthal,Democrat
+ASM_70,assembly,70,Tri Ta,Republican
+ASM_71,assembly,71,Kate Sanchez,Republican
+ASM_72,assembly,72,Diane B. Dixon,Republican
+ASM_73,assembly,73,Cottie Petrie-Norris,Democrat
+ASM_74,assembly,74,Laurie Davies,Republican
+ASM_75,assembly,75,Carl DeMaio,Republican
+ASM_76,assembly,76,Dr. Darshana R. Patel,Democrat
+ASM_77,assembly,77,Tasha Boerner,Democrat
+ASM_78,assembly,78,Christopher M. Ward,Democrat
+ASM_79,assembly,79,Dr. LaShae Sharp-Collins,Democrat
+ASM_80,assembly,80,David A. Alvarez,Democrat
+SEN_01,senate,1,Megan Dahle,Republican
+SEN_02,senate,2,Mike McGuire,Democrat
+SEN_03,senate,3,Christopher Cabaldon,Democrat
+SEN_04,senate,4,Marie Alvarado-Gil,Republican
+SEN_05,senate,5,Jerry McNerney,Democrat
+SEN_06,senate,6,Roger Niello,Republican
+SEN_07,senate,7,Jesse Arreguín,Democrat
+SEN_08,senate,8,Angelique Ashby,Democrat
+SEN_09,senate,9,Tim Grayson,Democrat
+SEN_10,senate,10,Aisha Wahab,Democrat
+SEN_11,senate,11,Scott Wiener,Democrat
+SEN_12,senate,12,Shannon Grove,Republican
+SEN_13,senate,13,Josh Becker,Democrat
+SEN_14,senate,14,Anna Caballero,Democrat
+SEN_15,senate,15,Dave Cortese,Democrat
+SEN_16,senate,16,Melissa Hurtado,Democrat
+SEN_17,senate,17,John Laird,Democrat
+SEN_18,senate,18,Steve Padilla,Democrat
+SEN_19,senate,19,Rosilicie Ochoa Bogh,Republican
+SEN_20,senate,20,Caroline Menjivar,Democrat
+SEN_21,senate,21,Monique Limón,Democrat
+SEN_22,senate,22,Susan Rubio,Democrat
+SEN_23,senate,23,Suzette Martinez Valladares,Republican
+SEN_24,senate,24,Benjamin Allen,Democrat
+SEN_25,senate,25,Sasha Renée Pérez,Democrat
+SEN_26,senate,26,Maria Elena Durazo,Democrat
+SEN_27,senate,27,Henry Stern,Democrat
+SEN_28,senate,28,Lola Smallwood-Cuevas,Democrat
+SEN_29,senate,29,Eloise Gómez Reyes,Democrat
+SEN_30,senate,30,Bob Archuleta,Democrat
+SEN_31,senate,31,Sabrina Cervantes,Democrat
+SEN_32,senate,32,Kelly Seyarto,Republican
+SEN_33,senate,33,Lena Gonzalez,Democrat
+SEN_34,senate,34,Thomas Umberg,Democrat
+SEN_35,senate,35,Laura Richardson,Democrat
+SEN_36,senate,36,Tony Strickland,Republican
+SEN_37,senate,37,"Steven ""Steve"" Choi",Republican
+SEN_38,senate,38,Catherine S. Blakespear,Democrat
+SEN_39,senate,39,Akilah Weber Pierson,Democrat
+SEN_40,senate,40,Brian W. Jones,Republican

@@ -1,0 +1,72 @@
+{
+  "generated_at_utc": "2026-02-12T04:25:06.256772+00:00",
+  "processed_dir": "/Users/adampeck/Documents/New project/data/processed",
+  "files": [
+    {
+      "file": "assembly.geojson",
+      "size_bytes": 10789373,
+      "sha256": "c62d5d163e3af1909e03f88b4c29f76b5fcc1e89ffd77f76f2aa557ab03f7cb4",
+      "modified_utc": "2026-02-12T04:12:13.726862+00:00"
+    },
+    {
+      "file": "legislator.csv",
+      "size_bytes": 5245,
+      "sha256": "4eb2444c9280038436a01d27f8d24952042d00521e316d8150fa95c3a794db12",
+      "modified_utc": "2026-02-12T04:20:53.244637+00:00"
+    },
+    {
+      "file": "legislator_office.csv",
+      "size_bytes": 60010,
+      "sha256": "49dd85d32b5d58f82ca77c75037c8aff3cb4c45e3a0b5025ad83148d54f96c5b",
+      "modified_utc": "2026-02-12T04:20:53.245487+00:00"
+    },
+    {
+      "file": "manifest.json",
+      "size_bytes": 2311,
+      "sha256": "ca44f9e5fa01389bae981f309e20548f5c7587153d9e26c68010790bb72b8d8e",
+      "modified_utc": "2026-02-12T04:21:13.024559+00:00"
+    },
+    {
+      "file": "qa_report.md",
+      "size_bytes": 1531,
+      "sha256": "7e5d682d1092d9613c4b8a2c4d0d479d7b1b15af82cf89528c1e5226d3abb979",
+      "modified_utc": "2026-02-12T04:25:06.183901+00:00"
+    },
+    {
+      "file": "senate.geojson",
+      "size_bytes": 8569128,
+      "sha256": "004aa9a84d6ac327f1e1e8f2b0110ece7a4a89c897c5503a5705708c996aca97",
+      "modified_utc": "2026-02-12T04:12:14.066978+00:00"
+    },
+    {
+      "file": "wda.geojson",
+      "size_bytes": 7661934,
+      "sha256": "4f0d1f0116f0bc63fd20aa172666120f6b54539fdefd1a62b1c341daf5e65063",
+      "modified_utc": "2026-02-12T04:25:00.231066+00:00"
+    },
+    {
+      "file": "wda_ad_overlap.csv",
+      "size_bytes": 19628,
+      "sha256": "7339581fb2ba133c26ab9e6d5cfacd507273091423a2a27decc0cfef31c0b3f7",
+      "modified_utc": "2026-02-12T04:12:14.072966+00:00"
+    },
+    {
+      "file": "wda_assignment_audit.csv",
+      "size_bytes": 105859,
+      "sha256": "8e50b1681eb4ed4f338af7c029a1df6ae8e89a9c6eaff6df01f0c82e9fdd9fe4",
+      "modified_utc": "2026-02-12T04:25:00.234485+00:00"
+    },
+    {
+      "file": "wda_sd_overlap.csv",
+      "size_bytes": 13403,
+      "sha256": "4e2d0dc6791a1aa303b9438b17a9f68c4343a13741fe81836358b8461ce497a2",
+      "modified_utc": "2026-02-12T04:12:14.073624+00:00"
+    },
+    {
+      "file": "wdb_contact.csv",
+      "size_bytes": 5538,
+      "sha256": "858f06ed862e57e81b804f6fd93fcd977ae73f068843007b3130f3003776d9e4",
+      "modified_utc": "2026-02-12T04:20:53.244354+00:00"
+    }
+  ]
+}
