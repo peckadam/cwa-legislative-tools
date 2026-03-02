@@ -205,7 +205,7 @@ def _render_wdb_contacts(wdb_contact: pd.DataFrame, wda_ids: Set[str]):
         }
     )
     st.dataframe(
-        table.sort_values(["Local Workforce Development Area", "Executive Director"]),
+        table.fillna("—").sort_values(["Local Workforce Development Area", "Executive Director"]),
         use_container_width=True,
         hide_index=True,
     )
@@ -435,6 +435,7 @@ def render_mapper_page(data):
             tooltip={"text": "{wda_name}{district_number}"},
         ),
         use_container_width=True,
+        height=480,
     )
 
     # ---- Selection summary ----
@@ -501,7 +502,10 @@ def render_mapper_page(data):
 
     with tab2:
         if rel_sd_rows.empty:
-            st.info("No Senate overlaps for the current selection.")
+            if selected_ad_id:
+                st.info("Showing Assembly District view — switch to 'Senate District' search mode to see Senate overlaps.")
+            else:
+                st.info("No Senate overlaps for the current selection.")
         else:
             table = (
                 rel_sd_rows
@@ -546,10 +550,14 @@ def render_mapper_page(data):
             st.write(f"Overlapping districts: {ad_cnt} Assembly, {sd_cnt} Senate")
             if not contact.empty:
                 c = contact.iloc[0]
-                st.write(
-                    f"Executive Director: {c.get('executive_name', '—')}, {c.get('title', '—')} | "
-                    f"Email: {c.get('email', '—')} | Phone: {c.get('phone', '—')}"
-                )
+                name = _safe_text(c.get("executive_name", "")) or "—"
+                title = _safe_text(c.get("title", "")) or "—"
+                email = _safe_text(c.get("email", ""))
+                phone = _safe_text(c.get("phone", "")) or "—"
+                parts = [f"Executive Director: {name}, {title}", f"Phone: {phone}"]
+                if email:
+                    parts.insert(1, f"Email: {email}")
+                st.write(" | ".join(parts))
 
     st.divider()
     st.subheader("Export & Notifications")
@@ -810,7 +818,7 @@ def render_datc_page(datc: dict):
     }
     if show_priority_cols:
         col_config["Priority"] = st.column_config.TextColumn("Priority", width="small")
-        col_config["Must Schedule"] = st.column_config.TextColumn("Sched?", width="small")
+        col_config["Must Schedule"] = st.column_config.TextColumn("Must Sched.", width="small")
     for abbr in display_wda_cols:
         col_config[abbr] = st.column_config.TextColumn(abbr, width="small")
 
@@ -878,10 +886,7 @@ def main():
 
     # ---- Navigation ----
     with st.sidebar:
-        st.image(
-            "https://img.icons8.com/fluency/48/000000/capitol.png",
-            width=40,
-        )
+        st.markdown("### 🏛️")
         st.title("CWA Legislative Tools")
         page = st.radio(
             "Navigate to",
