@@ -1,0 +1,13 @@
+data/raw/
+data/backups/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.DS_Store
+.venv/
+data/local_board_meetings/meetings.sqlite3
+data/local_board_meetings/reports/
+data/local_board_meetings/public/
+data/local_board_meetings/agendas/
+.~lock.*
